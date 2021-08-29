@@ -6,7 +6,7 @@ To clone for use in Unreal Engine (4.26):
 
        git init
      
-       git remote add origin https://github.com/kevprakash/BridgeBound.git
+       git remote add origin https://github.com/kevprakash/OutOfSpace.git
      
        git pull origin master
 
